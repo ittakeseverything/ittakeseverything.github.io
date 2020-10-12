@@ -1,0 +1,2 @@
+# ittakeseverything.github.io
+blog
